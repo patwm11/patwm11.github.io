@@ -1,0 +1,11 @@
+body { background: cornflowerblue;
+    color: navy;
+    font-size: 14pt;
+font-family: 'PT Sans', sans-serif}
+
+table {border: dotted 4px navy}
+h1 {border: solid 2px navy  }
+a {color: orangered}
+a:hover {color: aqua}
+
+li {border: solid 2px navy}
